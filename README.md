@@ -85,6 +85,7 @@ Coisas que estudei e trabalhei
   - ImpactJS (***)
 
 A legenda abaixo auxilia o entendimento de cada item
+
 |valor|descrição|
 |---|---|
 |*|li sobre / fiz um 'hello world'|
