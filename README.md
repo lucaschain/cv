@@ -51,13 +51,13 @@ Coisas que estudei e trabalhei
   - ES6(***)
   - Less, Sass, PostCSS (***)
   - ReactJS (***)
-  - VueJS (*)
+  - VueJS, Ember (*)
   - Backbone (**)
-  - Ember (*)
   - Angular (1-4) (*)
   - Gulp, Grunt, Webpack (***)
   - Responsive Design (***)
   - Bootstrap (***)
+  - BulmaCSS (*)
   - Crossbrowser Development (***)
   - SEO/Analytics (***)
   - CSS3 (***)
@@ -66,8 +66,9 @@ Coisas que estudei e trabalhei
   - OOCSS/Atomic Design (**)
 
 #### Back-end
-  - Javascript (NodeJS) (***)
-  - PHP (***)
+  - Javascript (Express, Hexo) (***)
+  - Javascript (SailsJS, MeteorJS) (**)
+  - PHP (Symphony, CodeIgniter, Laravel) (***)
   - C# (MVC3) (***)
   - Python (Django) (**)
   - Groovy (on grails) (***)
@@ -82,7 +83,7 @@ Coisas que estudei e trabalhei
 #### Game Development
   - UDK (**)
   - Unity (**)
-  - ImpactJS (***)
+  - ImpactJS (**)
 
 A legenda abaixo auxilia o entendimento de cada item
 
@@ -91,3 +92,17 @@ A legenda abaixo auxilia o entendimento de cada item
 |*|li sobre / fiz um 'hello world'|
 |**|realizei estudos mais profundos|
 |***|utilizei em sistemas de produção|
+
+### Links de projetos / testes
+
+  - [Frost](http://justdigital.github.io/frost/): Projeto open source desenvolvido para a Just.
+  - [HulQ](http://justdigital.github.io/hulq/): Projeto open source desenvolvido para a Just.
+  - [2D Raycasting (3D Simulation)](http://lab.lucaschain.com.br/raycasting/): Testes de raycasting e simulação de 3D num canvas 2D
+  - [Sounds to Colors (whistle)](http://lab.lucaschain.com.br/webapi/): Transforma sons na frequência de 200Hz a 800Hz (assovios, ukulele ou notas agudas do violão funcionam bem)
+  - [Portal Perdigão](http://www.perdigao.com.br): Desenvolvimento do framework de javascript do frontend e do MVP do projeto.
+  - [Okullus](http://lab.lucaschain.com.br/okullus/): Criação de lib de emissão de partículas para impactJS (explosões, tiros, cauda e gemas)
+
+### Contato
+
+  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucaschain/)
+  - Email: sou@lucaschain.com.br
