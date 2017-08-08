@@ -104,5 +104,5 @@ A legenda abaixo auxilia o entendimento de cada item
 
 ### Contato
 
-  - LinkedIn: [LinkedIn](https://www.linkedin.com/in/lucaschain/)
+  - LinkedIn: [https://www.linkedin.com/in/lucaschain/]
   - Email: sou@lucaschain.com.br
