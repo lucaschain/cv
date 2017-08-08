@@ -94,6 +94,7 @@ A legenda abaixo auxilia o entendimento de cada item
 |***|utilizei em sistemas de produção|
 
 ### Links de projetos / testes
+---
 
   - [Frost](http://justdigital.github.io/frost/): Projeto open source desenvolvido para a Just.
   - [HulQ](http://justdigital.github.io/hulq/): Projeto open source desenvolvido para a Just.
@@ -103,6 +104,7 @@ A legenda abaixo auxilia o entendimento de cada item
   - [Okullus](http://lab.lucaschain.com.br/okullus/): Criação de lib de emissão de partículas para impactJS (explosões, tiros, cauda e gemas)
 
 ### Contato
+---
 
   - LinkedIn: https://www.linkedin.com/in/lucaschain/
   - Email: sou@lucaschain.com.br
